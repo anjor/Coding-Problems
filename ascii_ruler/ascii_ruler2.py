@@ -22,4 +22,6 @@ def main(n):
 
     print row(n-1, n, last=True)
 
+if __name__ == '__main__':
+    main(6)
 
