@@ -44,78 +44,52 @@ My attempts at solving some problems often asked in interviews/coding competitio
 
     A few examples are below. 
 
-        1.
         Input: 
         3 
         1 5 2 
         2 4 7 
         3 6 9 
 
-
         Output: 
         7 2 
+
         The basins, labeled with A’s and B’s, are: 
         A A B 
         A A B 
         A A A 
 
 
+        Input: 
+        5 
+        1 0 2 5 8 
+        2 3 4 7 9 
+        3 5 7 8 9 
+        1 2 5 4 2 
+        3 3 5 2 1 
+
+        Output: 
+        11 7 7 
+
+        The basins, labeled with A’s, B’s, and C’s, are: 
+        A A A A A 
+        A A A A A 
+        B B A C C 
+        B B B C C 
+        B B C C C 
 
 
         Input: 
-        1 
-        10 
+        4 
+        0 2 1 3 
+        2 1 0 4 
+        3 3 3 3 
+        5 5 2 1 
 
         Output: 
-        1 
+        7 5 4 
 
-
-        There is only one basin in this case. 
-
-
-
-
-    Input: 
-    5 
-    1 0 2 5 8 
-    2 3 4 7 9 
-    3 5 7 8 9 
-    1 2 5 4 2 
-    3 3 5 2 1 
-
-    Output: 
-    11 7 7 
-
-
-
-
-
-
-    The basins, labeled with A’s, B’s, and C’s, are: 
-    A A A A A 
-    A A A A A 
-    B B A C C 
-    B B B C C 
-    B B C C C 
-
-
-
-    Input: 
-    4 
-    0 2 1 3 
-    2 1 0 4 
-    3 3 3 3 
-    5 5 2 1 
-
-    Output: 
-    7 5 4 
-
-
-
-
-
-    The basins, labeled with A’s, B’s, and C’s, are: 
-    A A B B 
-    A B B B 
-    A B B C 
-    A C C C
+        The basins, labeled with A’s, B’s, and C’s, are: 
+        A A B B 
+        A B B B 
+        A B B C 
+        A C C C
