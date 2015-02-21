@@ -2,7 +2,8 @@
 
 My attempts at solving some problems often asked in interviews/coding competitions.
 
-1. ASCII Ruler: For a given integer n, print out an ascii ruler.
+1. ##ASCII Ruler: 
+For a given integer n, print out an ascii ruler.
         
         For ex. - n = 1: |_|
 
@@ -13,9 +14,10 @@ My attempts at solving some problems often asked in interviews/coding competitio
                          |   |   |
                          |_|_|_|_|
 
-2. Elevation Problem: I found this problem on the [careercup
-website](http://www.careercup.com/page?pid=palantir-technology-interview-questions). The
-following description has been copied from there.
+2. ##Elevation Problem: 
+    I found this problem on the [careercup
+    website](http://www.careercup.com/page?pid=palantir-technology-interview-questions). The
+    following description has been copied from there.
 
     A group of farmers has some elevation data, and we’re going to help them understand how
     rainfall flows over their farmland. 
